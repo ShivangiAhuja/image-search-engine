@@ -24,11 +24,3 @@ This project allows users to search for images by entering a keyword, and it fet
 1. Enter a search term in the input field.  
 2. Click the **Search** button.  
 3. The app fetches images from the API and displays them in a grid layout.  
-
----
-
-## 📦 Installation & Usage  
-
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/your-username/image-search-engine.git
